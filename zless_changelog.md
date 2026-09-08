@@ -1,12 +1,12 @@
-## Zless v1.5.4 (v131)
+## Zless v1.5.5 (v132)
 
 ### Changelog
+- e947713 build(webui): Vite build output
+- dd9d99e feat(execute): support dynamic script slots A through Z (v132)
 - 4268bc8 build(webui): Vite build output
 - 933697d fix(execute): allow spaces in trigger keywords and responses (comma-only split) (v131)
-- 8f34f9c build(webui): Vite build output
-- f831b9f fix(execute): prompt_key multi-line menu tracking & clean markdown changelog (v130)
 
 ### SHA-256
 ```
-48ed531c228c02468cf4b5c68b023af5c2caff6ebd0a59d9950f5554d3e08b73  Zless V1.5.4.zip
+9cf6a7ed2704d02605588e957613cdd011822a73ae985d8addf934d604b18777  Zless V1.5.5.zip
 ```
