@@ -1,12 +1,12 @@
-## Zless v1.5.6 (v133)
+## Zless v1.5.7 (v134)
 
 ### Changelog
+- a47ee41 build(webui): Vite build output
+- 59d332d feat(ui): 4-tab minimalist layout STATUS CONFIG PROFILES CONSOLE (v134)
 - 5d3fa3d build(webui): Vite build output
 - 6ac51ef fix(execute): restore active profile on WebUI reload (v133)
-- e947713 build(webui): Vite build output
-- dd9d99e feat(execute): support dynamic script slots A through Z (v132)
 
 ### SHA-256
 ```
-7d5949c21a2382a589c2af5b00d106bfe4cc8dc43ad10d71d035f763fc0835d2  Zless V1.5.6.zip
+f6a3b3a7ed70d4a56acd26927f6fc51c5d686eab09efe93ff33f6105c69b8204  Zless V1.5.7.zip
 ```
