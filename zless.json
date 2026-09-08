@@ -1,6 +1,6 @@
 {
-  "version": "v1.5.2",
-  "versionCode": 129,
-  "zipUrl": "https://github.com/Alfnnnnyy/modules-update/releases/download/zless-v129/Zless.V1.5.2.zip",
-  "changelog": "https://github.com/Alfnnnnyy/modules-update/releases/tag/zless-v129"
+  "version": "v1.5.3",
+  "versionCode": 130,
+  "zipUrl": "https://github.com/Alfnnnnyy/modules-update/releases/download/zless-v130/Zless.V1.5.3.zip",
+  "changelog": "https://raw.githubusercontent.com/Alfnnnnyy/modules-update/main/zless_changelog.md"
 }
