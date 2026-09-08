@@ -1,6 +1,6 @@
-## PeridotCN-Spoofer v6.3.3 (v15)
+## PeridotCN-Spoofer v6.3.4 (v16)
 
-### 🛡️ Security & Kernel Parity
-- **Security Patch Parity:** Added `ro.build.version.security_patch=2026-08-01`, `ro.vendor.build.security_patch=2026-08-01`, `ro.keymaster.xxx.security_patch=2026-08-01`, and `ro.bootimage.build.security_patch=2026-08-01` in both `props.conf` and `seal.conf` to achieve 100% parity with TEE KeyStore Hardware Attestation certificates.
-- **Kernel Hostname Synchronization:** Automatically write generated hostname (`android-$SERIAL`) to Linux kernel sysctl `/proc/sys/kernel/hostname` during early boot (`post-fs-data.sh`) and late boot (`service.sh`), resolving `gethostname(2)` and `uname -n` mismatch vs `net.hostname` reported by VDInfos.
-- **KernelSU Online Module Update:** Integrated `updateJson` pointing to `Alfnnnnyy/modules-update` public mirror to enable seamless in-app module update notifications and one-tap upgrades in KernelSU / ReSukiSU / APatch / Magisk managers.
+### Catatan Perubahan (Changelog):
+- **Sinkronisasi Security Patch September 2026:** Memperbarui `ro.build.version.security_patch` dan `ro.vendor.build.security_patch` ke `2026-09-01` (`202609`) agar cocok 100% dengan TEE Hardware Attestation bulan September.
+- **Sinkronisasi Hostname Linux Kernel:** Menghubungkan syscall `hostname` dengan `net.hostname` untuk menghilangkan mismatch `gethostname(2)` / `uname -n` (`localhost` vs `android-xxxx`).
+- **Auto-Sync Bulanan:** Menambahkan penyesuaian otomatis level patch berbasis bulan berjalan di `service.sh`.
