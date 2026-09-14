@@ -1,12 +1,10 @@
-## Zless v1.6.2 (v139)
+## Zless v1.7.0 (v140)
 
 ### Changelog
-- a7e3a33 build(webui): Vite build output
-- 45f3a6b docs(guide): full 6-step localized user manual in ID, EN, ZH (v139)
-- 6ddd4f3 build(webui): Vite build output
-- da9ff85 fix(ui): align header buttons into symmetric action row & move dev credit to settings (v138)
+- f63f5d0 build(webui): Vite build output
+- 62afd99 feat(workprofile): Work Profile Controller with freeze/unfreeze/susfs (v140)
 
 ### SHA-256
 ```
-d399b12f82400eef86c0e5f0f75c79bfdd9eb91123b84a754e465880ef097423  Zless V1.6.2.zip
+d9eeffcd2fac23e198b9c2b8093977c28c7e6c7ffa733b27a1d2cd9789bdea49  Zless V1.7.0.zip
 ```
