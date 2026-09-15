@@ -1,12 +1,12 @@
-## Zless v1.7.9 (v149)
+## Zless v1.8.0 (v150)
 
 ### Changelog
+- 322721f build(webui): Vite build output
+- ccb5df5 fix(workprofile): fix icon extraction, expand NEVER_FREEZE list, prevent soft reboot (v150)
 - f97084c build(webui): Vite build output
 - d91a934 refactor(workprofile): real icons, STOP/START only, remove redundant buttons (v149)
-- a687a43 build(webui): Vite build output
-- bdc2f2a fix(workprofile): NEVER_FREEZE list prevents system app freeze crash (v148)
 
 ### SHA-256
 ```
-e96b606877eee5ec1adc721618be4c72e8f61e2ed0638ec577e1fecdf8a4cb02  Zless V1.7.9.zip
+12bef9c97fedc224e407b8a4a3f345acedc01668aea96c116ea82cca6b9093b7  Zless V1.8.0.zip
 ```
