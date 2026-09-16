@@ -1,10 +1,10 @@
-## Zless v1.9.2 (v162)
+## Zless v1.9.3 (v163)
 
 ### Changelog
-- feat(wpz): integrate native WPZ DPC subsystem, auto-compilation in CI & silent install (v162)
-- fix(workprofile): deep multi-agent audit fixes for DPC provisioning, IME/WebView preservation, and clone API
+- 6facd51 build(webui): Vite build output
+- d0944ba fix(workprofile): resolve accurate Profile Owner DPC detection from device_policies.xml and dumpsys (v163)
 
 ### SHA-256
 ```
-448d57d5b6cadd5c215bb28238157141f941be649f7c1cf44bc14e08eba6239e  Zless V1.9.2.zip
+28c2c466f4c70d295c6df0fe11ce71f6c7f876d5c7bd12fbfe08586ee79c29c4  Zless V1.9.3.zip
 ```
