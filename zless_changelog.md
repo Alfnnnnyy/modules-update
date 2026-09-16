@@ -1,8 +1,9 @@
 ## Zless v1.9.4 (v164)
 
 ### Changelog
-- f26f3a2 build(webui): Vite build output
-- 1cb00a5 fix: hard-gate CPU spoof to require active SUSFS, fix unmount order & lazy unmount (v164)
+- fix(cpuinfo): hard-gate CPU spoof to require active SUSFS kernel module (anti-cheat safe guard)
+- fix(cpuinfo): inverted unhide order & lazy unmount (-l) preventing residual /proc/cpuinfo mounts
+- fix(workprofile): strict icon regex and density ordering
 
 ### SHA-256
 ```
