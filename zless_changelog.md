@@ -1,8 +1,8 @@
 ## Zless v1.9.2 (v162)
 
 ### Changelog
-- 390c63d build(webui): Vite build output
-- ae5ba5e feat(wpz): integrate native WPZ DPC subsystem, auto-compilation in CI & silent install (v162)
+- feat(wpz): integrate native WPZ DPC subsystem, auto-compilation in CI & silent install (v162)
+- fix(workprofile): deep multi-agent audit fixes for DPC provisioning, IME/WebView preservation, and clone API
 
 ### SHA-256
 ```
