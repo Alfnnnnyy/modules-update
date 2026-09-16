@@ -1,10 +1,8 @@
 ## Zless v1.8.5 (v155)
 
 ### Changelog
-- 3b24d62 build(webui): Vite build output
-- 6e183f7 fix(cleaner): enforce clean mandatory init reboot via sys.powerctl (v155)
-- e02eb4d build(webui): Vite build output
-- 8e2306f fix: resolve bottom scroll cutoff, wallpaper transparency, and accurate icon extraction (v154)
+- fix(cleaner): enforce clean mandatory init reboot via sys.powerctl (v155)
+- fix(cleaner): remove optional reboot toggle and display mandatory reboot notice
 
 ### SHA-256
 ```
