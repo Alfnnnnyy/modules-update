@@ -1,8 +1,8 @@
 ## Zless v1.9.3 (v163)
 
 ### Changelog
-- 6facd51 build(webui): Vite build output
-- d0944ba fix(workprofile): resolve accurate Profile Owner DPC detection from device_policies.xml and dumpsys (v163)
+- fix(workprofile): resolve accurate Profile Owner DPC detection from device_policies.xml and dumpsys (v163)
+- fix(workprofile): properly display [SHELTER] or [ISLAND] badge if created by external DPC
 
 ### SHA-256
 ```
