@@ -1,10 +1,9 @@
 ## Zless v1.8.4 (v154)
 
 ### Changelog
-- e02eb4d build(webui): Vite build output
-- 8e2306f fix: resolve bottom scroll cutoff, wallpaper transparency, and accurate icon extraction (v154)
-- 983484c build(webui): Vite build output
-- 1563017 feat: integrate full native ZCleaner v3.7 engine, CLEANER tab, persistent icons (v153)
+- fix(ui): fix scroll cutoff at bottom with safe-area padding (v154)
+- fix(wallpaper): true translucent box opacity and z-index ordering (v154)
+- fix(workprofile): accurate base.apk resolution and toybox unzip fallback for icons (v154)
 
 ### SHA-256
 ```
