@@ -1,11 +1,12 @@
-## Zless v1.8.7 (v157)
+## Zless v1.8.8 (v158)
 
 ### Changelog
-- fix(cleaner): bundle original Zclean C engine directly without rewrite
-- fix(cleaner): data mover via proven mover.sh script
-- fix(ui): remove red notice box and all emojis
+- eba570f build(webui): Vite build output
+- 7e8e72f fix: set execute permissions (0755) for Zclean and mover.sh (v158)
+- f20a234 build(webui): Vite build output
+- 9497412 fix(cleaner): bundle original Zclean C engine directly, mover.sh & clean professional UI (v157)
 
 ### SHA-256
 ```
-44f9c157674429383eb1d5f5dc1e528ec3f73fbe60edebd83bf197f60f8d751a  Zless V1.8.7.zip
+0f432589b2bcc2072445c16269a9a5cdb1bb72ad27750ec0d4488b847711d372  Zless V1.8.8.zip
 ```
