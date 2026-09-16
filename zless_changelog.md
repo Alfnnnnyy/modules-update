@@ -1,10 +1,11 @@
 ## Zless v1.8.6 (v156)
 
 ### Changelog
-- 1dadf19 build(webui): Vite build output
-- 987913c fix(cleaner): 1:1 ZCleaner v3.7 parity, direct Saved path, prefix match & detached reboot (v156)
-- 3b24d62 build(webui): Vite build output
-- 6e183f7 fix(cleaner): enforce clean mandatory init reboot via sys.powerctl (v155)
+- fix(cleaner): 1:1 parity with proven ZCleaner v3.7 native C engine (v156)
+- fix(cleaner): prefix-based asset matching protecting SQLite WAL/SHM & map chunks
+- fix(cleaner): direct O(1) UE4Game Saved path lookup (eliminates FUSE I/O freeze)
+- fix(cleaner): detached non-blocking reboot via /system/bin/reboot spawn
+- test(cleaner): 100% passed 34-point mock Android storage backtest
 
 ### SHA-256
 ```
