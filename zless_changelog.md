@@ -1,11 +1,12 @@
-## Zless v1.8.4 (v154)
+## Zless v1.8.5 (v155)
 
 ### Changelog
-- fix(ui): fix scroll cutoff at bottom with safe-area padding (v154)
-- fix(wallpaper): true translucent box opacity and z-index ordering (v154)
-- fix(workprofile): accurate base.apk resolution and toybox unzip fallback for icons (v154)
+- 3b24d62 build(webui): Vite build output
+- 6e183f7 fix(cleaner): enforce clean mandatory init reboot via sys.powerctl (v155)
+- e02eb4d build(webui): Vite build output
+- 8e2306f fix: resolve bottom scroll cutoff, wallpaper transparency, and accurate icon extraction (v154)
 
 ### SHA-256
 ```
-1696c09b4e22add747ad9aa28c7603fa0d20478e4870d1e913276c59e7c8f03d  Zless V1.8.4.zip
+f52447aad5836fa9290bfafe0104f3ac770236d60e747ea77a38ae20f4d2475b  Zless V1.8.5.zip
 ```
