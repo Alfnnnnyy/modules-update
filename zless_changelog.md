@@ -1,10 +1,10 @@
-## Zless v1.9.3 (v163)
+## Zless v1.9.4 (v164)
 
 ### Changelog
-- fix(workprofile): resolve accurate Profile Owner DPC detection from device_policies.xml and dumpsys (v163)
-- fix(workprofile): properly display [SHELTER] or [ISLAND] badge if created by external DPC
+- f26f3a2 build(webui): Vite build output
+- 1cb00a5 fix: hard-gate CPU spoof to require active SUSFS, fix unmount order & lazy unmount (v164)
 
 ### SHA-256
 ```
-28c2c466f4c70d295c6df0fe11ce71f6c7f876d5c7bd12fbfe08586ee79c29c4  Zless V1.9.3.zip
+ee7cb137fbbd164d1862e9a6426f0d63387e82a529f975a59f4e212c633d6f9a  Zless V1.9.4.zip
 ```
