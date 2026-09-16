@@ -1,12 +1,10 @@
-## Zless v1.8.1 (v151)
+## Zless v1.8.2 (v152)
 
 ### Changelog
-- 95383aa build(webui): Vite build output
-- 7fae9a0 fix(ui): prevent horizontal overflow blowout, fix button sizing, fix media query syntax (v151)
-- 322721f build(webui): Vite build output
-- ccb5df5 fix(workprofile): fix icon extraction, expand NEVER_FREEZE list, prevent soft reboot (v150)
+- 525b9a4 build(webui): Vite build output
+- 2dfcd4f feat(workprofile): add WPZ headless DPC broadcast bridge and SUSFS cloaking (v152)
 
 ### SHA-256
 ```
-e88b9f1428957e8b7005244953fecd0f29bb280dedadd18dc8f59848e7d71b1a  Zless V1.8.1.zip
+6a83f67f4746677a853741a919c2c88a11bf21d07d14429f19ef07836766d8e2  Zless V1.8.2.zip
 ```
