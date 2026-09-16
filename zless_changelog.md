@@ -1,12 +1,12 @@
-## Zless v1.8.3 (v153)
+## Zless v1.8.4 (v154)
 
 ### Changelog
+- e02eb4d build(webui): Vite build output
+- 8e2306f fix: resolve bottom scroll cutoff, wallpaper transparency, and accurate icon extraction (v154)
 - 983484c build(webui): Vite build output
 - 1563017 feat: integrate full native ZCleaner v3.7 engine, CLEANER tab, persistent icons (v153)
-- 525b9a4 build(webui): Vite build output
-- 2dfcd4f feat(workprofile): add WPZ headless DPC broadcast bridge and SUSFS cloaking (v152)
 
 ### SHA-256
 ```
-09c4a74ded7f243ddeac1ce9502a3ef018bbd5725e022c96d61091cef4e0e043  Zless V1.8.3.zip
+1696c09b4e22add747ad9aa28c7603fa0d20478e4870d1e913276c59e7c8f03d  Zless V1.8.4.zip
 ```
