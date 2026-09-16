@@ -1,10 +1,8 @@
 ## Zless v1.8.8 (v158)
 
 ### Changelog
-- eba570f build(webui): Vite build output
-- 7e8e72f fix: set execute permissions (0755) for Zclean and mover.sh (v158)
-- f20a234 build(webui): Vite build output
-- 9497412 fix(cleaner): bundle original Zclean C engine directly, mover.sh & clean professional UI (v157)
+- fix: set execute permissions (0755) for Zclean and mover.sh
+- fix: ensure chmod 755 dynamically before spawning Zclean in actions.rs
 
 ### SHA-256
 ```
