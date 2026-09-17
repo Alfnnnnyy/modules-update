@@ -1,11 +1,13 @@
-## Zless v1.9.6 (v166)
+## Zless v1.9.7 (v167)
 
 ### Changelog
-- fix(workprofile): eliminate GSF/Permission/Media crash loops via framework recovery
-- fix(workprofile): strictly prevent deleting existing profiles on creation failure
-- fix(security): move zclean.c to backend/c_src ensuring zero source leakage in release zip
+- 9a70ca6 fix(wpz): make drawableToBitmap static in WPZCommandReceiver
+- 25d0162 build(webui): Vite build output
+- 1fa6821 fix(workprofile): sterilize launcher bloat, accurate app list, embedded crisp icons & Binder transaction fix (v167)
+- b49dacb build(webui): Vite build output
+- ab8a892 fix: protect Google accounts, eliminate GSF crash loops & hide zclean.c source from release (v166)
 
 ### SHA-256
 ```
-0c6fdbd6d07be77644d91d3466445bd30016ae8e54178906bf3f695fc1eec3c6  Zless V1.9.6.zip
+eeff8a3415eb61a6d46d0b21c85b6f905c37b2cd8bfb88ada0e95f5b435d6812  Zless V1.9.7.zip
 ```
