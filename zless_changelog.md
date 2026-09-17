@@ -1,11 +1,10 @@
-## Zless v1.9.4 (v164)
+## Zless v1.9.5 (v165)
 
 ### Changelog
-- fix(cpuinfo): hard-gate CPU spoof to require active SUSFS kernel module (anti-cheat safe guard)
-- fix(cpuinfo): inverted unhide order & lazy unmount (-l) preventing residual /proc/cpuinfo mounts
-- fix(workprofile): strict icon regex and density ordering
+- 38f9d6e build(webui): Vite build output
+- 30d8fde feat(workprofile): full multi-profile provisioning, persistent create button & cross-profile data mover (v165)
 
 ### SHA-256
 ```
-ee7cb137fbbd164d1862e9a6426f0d63387e82a529f975a59f4e212c633d6f9a  Zless V1.9.4.zip
+4122aba93cb083844d8be5a80f49d114b7626676e7089137fd354fff5090863d  Zless V1.9.5.zip
 ```
