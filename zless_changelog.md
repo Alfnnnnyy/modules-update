@@ -1,13 +1,11 @@
-## Zless v1.9.8 (v168)
+## Zless v1.9.9 (v169)
 
 ### Changelog
-- Instant profile creation (eliminated heavy 80+ system package icon scans)
-- Enable Play Store & DocumentsUI via DPC in work profile launcher
-- Instant zero-shell icon matching for Play Store, Downloads, and Via
-- Accurate partitioned app listing (third-party & game apps only)
-- Auto-select destination profile in Data Mover
+- 70a9ba1 build(webui): Vite build output
+- af1f280 fix(workprofile): eradicate launcher bloat via root batch disable & explicit intent DPC (v169)
+- 541cad7 ci: switch public mirror release to single rolling release page 'zless'
 
 ### SHA-256
 ```
-62fda4b980fa9f8bc6f5d56c80f5414864e322abbf381cc0a47041da1fc59c5c  Zless.V1.9.8.zip
+a6c1a84248bf4302cc937fdf5080a9de272e0a893836269f1ab448a6891042dc  Zless V1.9.9.zip
 ```
