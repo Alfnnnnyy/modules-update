@@ -1,8 +1,10 @@
 ## Zless v1.9.5 (v165)
 
 ### Changelog
-- 38f9d6e build(webui): Vite build output
-- 30d8fde feat(workprofile): full multi-profile provisioning, persistent create button & cross-profile data mover (v165)
+- feat(workprofile): dynamic multi-profile provisioning with WPZ DPC (User 10, 11, 12+)
+- feat(workprofile): persistent create button in header & cross-profile Data Mover
+- fix(cleaner): relocate cleaner logs to cloaked module directory
+- feat(susfs): dynamic multi-user DPC path cloaking (User 10 to 32+)
 
 ### SHA-256
 ```
