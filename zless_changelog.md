@@ -1,12 +1,12 @@
-## Zless v2.0.2 (v172)
+## Zless v2.0.3 (v173)
 
 ### Changelog
+- 92dae14 build(webui): Vite build output
+- d8960f4 fix(workprofile): whitelist-based sterilization on boot & daemon startup to prevent reboot anomalies (v173)
 - ec67392 build(webui): Vite build output
 - 839bd56 fix(workprofile): eradicate boot anomalies via boot sterilization & receiver, auto-refresh on create (v172)
-- 53d2cde build(webui): Vite build output
-- 71d143c fix(workprofile): instant work tab load (<0.1s), eradicate Keamanan via uninstall -k & activity disable (v171)
 
 ### SHA-256
 ```
-01fd3e4229092b957cecbc22ae6b09bc37f9d9150a24365b2451d6fd4a804bf4  Zless V2.0.2.zip
+3e228e89482eebe1070ed241a64702d560e0abd16a95bee63f8dca752faa7f5f  Zless V2.0.3.zip
 ```
