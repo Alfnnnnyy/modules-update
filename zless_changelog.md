@@ -1,10 +1,9 @@
 ## Zless v1.9.6 (v166)
 
 ### Changelog
-- b49dacb build(webui): Vite build output
-- ab8a892 fix: protect Google accounts, eliminate GSF crash loops & hide zclean.c source from release (v166)
-- 38f9d6e build(webui): Vite build output
-- 30d8fde feat(workprofile): full multi-profile provisioning, persistent create button & cross-profile data mover (v165)
+- fix(workprofile): eliminate GSF/Permission/Media crash loops via framework recovery
+- fix(workprofile): strictly prevent deleting existing profiles on creation failure
+- fix(security): move zclean.c to backend/c_src ensuring zero source leakage in release zip
 
 ### SHA-256
 ```
