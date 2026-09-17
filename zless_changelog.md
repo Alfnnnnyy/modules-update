@@ -1,13 +1,13 @@
-## Zless v2.0.6 (v176)
+## Zless v2.0.7 (v177)
 
 ### Changelog
+- aa9363a build(webui): Vite build output
+- 4ba01b0 fix(workprofile): protect SettingsProvider & PrintSpooler, prevent soft reboot, match CNE kitsunebi icon (v177)
 - 53a7d56 fix(wpz): correct relative path to wpz.keystore in build.gradle
 - feb15af build(webui): Vite build output
 - 339bb96 fix(workprofile): permanent WPZ keystore, eliminate 308 phantom apps, quiet mode lifecycle, fix GSF crash (v176)
-- 86fe91b build(webui): Vite build output
-- 79a64b0 fix(workprofile): universal OEM whitelist debloater (UAD-NG compliant), full frozen app audit, global App vault eradication (v175)
 
 ### SHA-256
 ```
-5402f82879bcf91e3033e2c369c840aeac1ab6c0d9389514977afd9d47067845  Zless V2.0.6.zip
+b3262ad5505cb1ac19b7225c6d36329021b157113eebc8930d3b28193bac04f6  Zless V2.0.7.zip
 ```
