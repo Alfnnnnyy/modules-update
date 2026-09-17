@@ -1,12 +1,12 @@
-## Zless v1.9.5 (v165)
+## Zless v1.9.6 (v166)
 
 ### Changelog
-- feat(workprofile): dynamic multi-profile provisioning with WPZ DPC (User 10, 11, 12+)
-- feat(workprofile): persistent create button in header & cross-profile Data Mover
-- fix(cleaner): relocate cleaner logs to cloaked module directory
-- feat(susfs): dynamic multi-user DPC path cloaking (User 10 to 32+)
+- b49dacb build(webui): Vite build output
+- ab8a892 fix: protect Google accounts, eliminate GSF crash loops & hide zclean.c source from release (v166)
+- 38f9d6e build(webui): Vite build output
+- 30d8fde feat(workprofile): full multi-profile provisioning, persistent create button & cross-profile data mover (v165)
 
 ### SHA-256
 ```
-4122aba93cb083844d8be5a80f49d114b7626676e7089137fd354fff5090863d  Zless V1.9.5.zip
+0c6fdbd6d07be77644d91d3466445bd30016ae8e54178906bf3f695fc1eec3c6  Zless V1.9.6.zip
 ```
