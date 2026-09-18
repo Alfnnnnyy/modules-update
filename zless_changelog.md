@@ -1,12 +1,12 @@
-## Zless v2.1.4 (v184)
+## Zless v2.1.5 (v185)
 
 ### Changelog
+- cf9dcaa build(webui): Vite build output
+- 6b10814 fix(workprofile): prioritize user app icons in WPZ and fix loadProfiles undefined (v185)
 - e2c7e59 build(webui): Vite build output
 - d68b00c feat(workprofile): enable User 0 icon dumping in WPZ and multi-select app cloning (v184)
-- cbf40a4 build(webui): Vite build output
-- eb21536 fix(workprofile): eliminate legacy unzip/pm path overhead, clean app labels and instant modal load (v183)
 
 ### SHA-256
 ```
-123709700fc2fd8f4ff6b2f922c48f5638f28119992d61cb3bf0025b2af7a828  Zless V2.1.4.zip
+3d96cf74c7ac049ee7ab42dbe8bbed53d9a8f362daedd144240a43550f196e76  Zless V2.1.5.zip
 ```
