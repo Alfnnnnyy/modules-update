@@ -1,12 +1,12 @@
-## Zless v2.0.9 (v179)
+## Zless v2.1.0 (v180)
 
 ### Changelog
+- b1b0b9f build(webui): Vite build output
+- c983c1f fix(workprofile): eliminate protected broadcast soft-reboot trigger in stop/start profile (v180)
 - 1eb891c build(webui): Vite build output
 - f1aa7e5 fix(wpz): bump WPZ v1.0.1, fix soft reboot on stop, QUERY_ALL_PACKAGES & dynamic icon rendering (v179)
-- 0c6df85 build(webui): Vite build output
-- f820065 fix(workprofile): eliminate base64 and shell unzip slop, pure native Skia rendering, fix GSF reboot loop (v178)
 
 ### SHA-256
 ```
-e57e269b214ed262682a2f4e735fea868169422b79f4f10527a2bf90efbbd778  Zless V2.0.9.zip
+97dda68c26ff05f71037827c7ba7b7cb26ba951030783d7e6eaa1743b55b215d  Zless V2.1.0.zip
 ```
