@@ -1,13 +1,12 @@
-## Zless v2.0.7 (v177)
+## Zless v2.0.8 (v178)
 
 ### Changelog
+- 0c6df85 build(webui): Vite build output
+- f820065 fix(workprofile): eliminate base64 and shell unzip slop, pure native Skia rendering, fix GSF reboot loop (v178)
 - aa9363a build(webui): Vite build output
 - 4ba01b0 fix(workprofile): protect SettingsProvider & PrintSpooler, prevent soft reboot, match CNE kitsunebi icon (v177)
-- 53a7d56 fix(wpz): correct relative path to wpz.keystore in build.gradle
-- feb15af build(webui): Vite build output
-- 339bb96 fix(workprofile): permanent WPZ keystore, eliminate 308 phantom apps, quiet mode lifecycle, fix GSF crash (v176)
 
 ### SHA-256
 ```
-b3262ad5505cb1ac19b7225c6d36329021b157113eebc8930d3b28193bac04f6  Zless V2.0.7.zip
+6b13a8b9c87d11b99971d888d77f5e6e4935d042f51bcd926e1b84dec06e888f  Zless V2.0.8.zip
 ```
