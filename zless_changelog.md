@@ -1,12 +1,12 @@
-## Zless v2.1.3 (v183)
+## Zless v2.1.4 (v184)
 
 ### Changelog
+- e2c7e59 build(webui): Vite build output
+- d68b00c feat(workprofile): enable User 0 icon dumping in WPZ and multi-select app cloning (v184)
 - cbf40a4 build(webui): Vite build output
 - eb21536 fix(workprofile): eliminate legacy unzip/pm path overhead, clean app labels and instant modal load (v183)
-- 623c6b1 build(webui): Vite build output
-- e67ef1d feat(workprofile): modern clone app picker with real icons, labels and search filter (v182)
 
 ### SHA-256
 ```
-818b89e9a219b2ffe4e68c7759648c861b8db14f8a3b68951836ea615c3a01b1  Zless V2.1.3.zip
+123709700fc2fd8f4ff6b2f922c48f5638f28119992d61cb3bf0025b2af7a828  Zless V2.1.4.zip
 ```
