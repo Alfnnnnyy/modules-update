@@ -1,10 +1,10 @@
-## Zless v2.1.1 (v181)
+## Zless v2.1.2 (v182)
 
 ### Changelog
-- c4b4a0f build(webui): Vite build output
-- 31b06b5 refactor(workprofile): delete stop/start work profile buttons, rely on native Android Quiet Mode (v181)
+- 623c6b1 build(webui): Vite build output
+- e67ef1d feat(workprofile): modern clone app picker with real icons, labels and search filter (v182)
 
 ### SHA-256
 ```
-9ccdd37e638c2b58432c1ea1f668eb853b47800a18a1e687b20b61d0996f3b73  Zless V2.1.1.zip
+808b5e6fde2fc9cb6c2836770db905870f02266e12af57629a4637b8f2a067e8  Zless V2.1.2.zip
 ```
