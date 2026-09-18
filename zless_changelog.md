@@ -1,12 +1,10 @@
-## Zless v2.1.6 (v186)
+## Zless v2.1.7 (v187)
 
 ### Changelog
-- 026aa68 build(webui): Vite build output
-- f760d51 feat: dual IMEI auto-detection, stacked status display, and remove chapter 08 guide (v186)
-- cf9dcaa build(webui): Vite build output
-- 6b10814 fix(workprofile): prioritize user app icons in WPZ and fix loadProfiles undefined (v185)
+- 1de34e6 build(webui): Vite build output
+- 0127865 fix(workprofile): protect Gboard from freeze and enable VPN support via vpndialogs (v187)
 
 ### SHA-256
 ```
-6710dfd7736c7a12b11d92f2b8fae1ba21c5b81b2d9541462c90f3dc33fb1a1f  Zless V2.1.6.zip
+57c6dfe15498c70125c579583e9f75b3ec9de6666913d359113798893e760ff7  Zless V2.1.7.zip
 ```
