@@ -1,12 +1,12 @@
-## Zless v2.0.8 (v178)
+## Zless v2.0.9 (v179)
 
 ### Changelog
+- 1eb891c build(webui): Vite build output
+- f1aa7e5 fix(wpz): bump WPZ v1.0.1, fix soft reboot on stop, QUERY_ALL_PACKAGES & dynamic icon rendering (v179)
 - 0c6df85 build(webui): Vite build output
 - f820065 fix(workprofile): eliminate base64 and shell unzip slop, pure native Skia rendering, fix GSF reboot loop (v178)
-- aa9363a build(webui): Vite build output
-- 4ba01b0 fix(workprofile): protect SettingsProvider & PrintSpooler, prevent soft reboot, match CNE kitsunebi icon (v177)
 
 ### SHA-256
 ```
-6b13a8b9c87d11b99971d888d77f5e6e4935d042f51bcd926e1b84dec06e888f  Zless V2.0.8.zip
+e57e269b214ed262682a2f4e735fea868169422b79f4f10527a2bf90efbbd778  Zless V2.0.9.zip
 ```
