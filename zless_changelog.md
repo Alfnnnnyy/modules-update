@@ -1,12 +1,10 @@
-## Zless v2.2.7 (v197)
+## Zless v2.2.8 (v198)
 
 ### Changelog
-- 99ec833 build(webui): Vite build output
-- af8b9c9 feat: clean OS-level CPU/preset reset, persistent brand & SoC category tabs, verified 115 devices, bump v2.2.7 (v197)
-- 765933a build(webui): Vite build output
-- 51365f9 feat: 115 curated flagship devices in devices.conf, toggle-to-deselect preset UX, persistent CPU spoof mount (v196)
+- c6647ef build(webui): Vite build output
+- 91eca75 feat: add auto-random reboot checkbox, full REDMAGIC 11 series, 26 Snapdragon SoCs, bump v2.2.8 (v198)
 
 ### SHA-256
 ```
-794b232c97f132b88c567fd7dafcf3f85ad16bab1dcd5e7fdf87bed78bd6cd4a  Zless V2.2.7.zip
+b8d7dbcd373c450ac9c06d025e6b48e973f9e20c5018992ded7d1aa9e0742142  Zless V2.2.8.zip
 ```
