@@ -1,12 +1,12 @@
-## Zless v2.2.1 (v191)
+## Zless v2.2.2 (v192)
 
 ### Changelog
+- f846e00 build(webui): Vite build output
+- 7a84b7c revert: restore original raw.githubusercontent.com updateJson and bump v2.2.2 (v192)
 - b333f75 build(webui): Vite build output
 - ac49250 fix(spoofer): bottom bar 6-tab grid alignment, full i18n support, and dual IMEI display (v191)
-- a61be27 build(webui): Vite build output
-- 321b4e7 feat: Universal Spoofer tab, conflict module detection and warning popup, bump v2.2.0 (v190)
 
 ### SHA-256
 ```
-3ea5d9c1140c60614d8a7a91808b582c4687413100c84f001a42d72dda9a283e  Zless V2.2.1.zip
+c4008bded02a85184c24f49cd5af898608f1964250d7245ccf36132cff1ef97f  Zless V2.2.2.zip
 ```
