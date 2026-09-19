@@ -1,12 +1,12 @@
-## Zless v2.2.0 (v190)
+## Zless v2.2.1 (v191)
 
 ### Changelog
+- b333f75 build(webui): Vite build output
+- ac49250 fix(spoofer): bottom bar 6-tab grid alignment, full i18n support, and dual IMEI display (v191)
 - a61be27 build(webui): Vite build output
 - 321b4e7 feat: Universal Spoofer tab, conflict module detection and warning popup, bump v2.2.0 (v190)
-- 24b0f6f build(webui): Vite build output
-- 2c6ccc3 fix(workprofile): mark user_setup_complete to preserve apps in recent tasks list (v189)
 
 ### SHA-256
 ```
-3f7491762dbe64766bb3d4912b3916131950a4d0058a374cd609074d190a75a9  Zless V2.2.0.zip
+3ea5d9c1140c60614d8a7a91808b582c4687413100c84f001a42d72dda9a283e  Zless V2.2.1.zip
 ```
