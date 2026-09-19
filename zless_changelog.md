@@ -1,12 +1,12 @@
-## Zless v2.2.6 (v196)
+## Zless v2.2.7 (v197)
 
 ### Changelog
+- 99ec833 build(webui): Vite build output
+- af8b9c9 feat: clean OS-level CPU/preset reset, persistent brand & SoC category tabs, verified 115 devices, bump v2.2.7 (v197)
 - 765933a build(webui): Vite build output
 - 51365f9 feat: 115 curated flagship devices in devices.conf, toggle-to-deselect preset UX, persistent CPU spoof mount (v196)
-- 264120c build(webui): Vite build output
-- 0535e50 feat: comprehensive flagship presets (REDMAGIC/Vivo/OPPO/Pixel), Tensor G4 & 8 Elite Extreme SoC, bump v2.2.5 (v195)
 
 ### SHA-256
 ```
-22a069f175d72f6961e3df4cf859f24da8c8de5a2e7ee4ea729b692f0d8378a3  Zless V2.2.6.zip
+794b232c97f132b88c567fd7dafcf3f85ad16bab1dcd5e7fdf87bed78bd6cd4a  Zless V2.2.7.zip
 ```
