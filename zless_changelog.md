@@ -1,10 +1,10 @@
-## Zless v2.2.22 (v212)
+## Zless v2.2.23 (v213)
 
 ### Changelog
-- 65cb91b build(webui): Vite build output
-- 7d5725f fix(execute): fix PTY binary early exit, preserve terminal logs, optimize large binary uploads, bump v2.2.22 (v212)
+- f56787e build(webui): Vite build output
+- c6d475e feat: replace native select with custom dark dropdowns in ExecuteBox, isolate run directory to /data/adb/zless/run, bump v2.2.23 (v213)
 
 ### SHA-256
 ```
-0b6b3b645a205f39431d95b64b7a80f774841dc583de150d2220aa8ee03da0e6  Zless V2.2.22.zip
+954e3a26c832c96a44f70bfd8cfcf43b860a119403d29fdc5e4f089fe4b8fc46  Zless V2.2.23.zip
 ```
