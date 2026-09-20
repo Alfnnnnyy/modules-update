@@ -1,12 +1,12 @@
-## Zless v2.2.13 (v203)
+## Zless v2.2.14 (v204)
 
 ### Changelog
+- 7b33829 build(webui): Vite build output
+- 7ce591d feat: dual-path internal+external Data Mover, modern card UI, unified GAME_LIST in STATUS, bump v2.2.14 (v204)
 - 46b3c67 build(webui): Vite build output
 - 8f74229 fix: use SUSFS open_redirect scheme 3 for untrusted apps only (preserves Qualcomm modem stability), bump v2.2.13 (v203)
-- 4e0df7d build(webui): Vite build output
-- 1448785 fix: quote case patterns in spoofer.sh, apply preset in service.sh, expand multi-partition identity props, bump v2.2.12 (v202)
 
 ### SHA-256
 ```
-937558bb914f94cd536a3fa223d6146c5344b4e5bc8f333d7c813881aa66f108  Zless V2.2.13.zip
+3f90b2d567322688c21cb45bb6289c2f2d79d6157c0f8a19d7cd43417d8e085a  Zless V2.2.14.zip
 ```
