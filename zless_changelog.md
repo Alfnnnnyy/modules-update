@@ -1,10 +1,10 @@
-## Zless v2.2.21 (v211)
+## Zless v2.2.22 (v212)
 
 ### Changelog
-- f684937 build(webui): Vite build output
-- 759942a fix: clean module.prop description, natural download label, bump v2.2.21 (v211)
+- 65cb91b build(webui): Vite build output
+- 7d5725f fix(execute): fix PTY binary early exit, preserve terminal logs, optimize large binary uploads, bump v2.2.22 (v212)
 
 ### SHA-256
 ```
-bac088459e9895644ada2eae23c75653d880dd27aabf266c1b10e13e5c7cd978  Zless V2.2.21.zip
+0b6b3b645a205f39431d95b64b7a80f774841dc583de150d2220aa8ee03da0e6  Zless V2.2.22.zip
 ```
