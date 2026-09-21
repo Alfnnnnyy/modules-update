@@ -1,13 +1,10 @@
-## Zless v2.2.36 (v226)
+## Zless v2.2.37 (v227)
 
 ### Changelog
-- 67e908c build(webui): Vite build output
-- da96c8e feat: stacking toast queue with 2-10s duration, spoofer layout overhaul, full light mode support & liquid glass buttons, bump v2.2.36 (v226)
-- a4cb5d8 build(webui): Vite build output
-- 8f6ff2a feat: complete liquid glass transformation, floating dock, hud tiles & tactile feedback, bump v2.2.35 (v225)
-- 2edb141 fix(ci): use versioned tag zless-v${VC} in public mirror repo
+- f78a573 build(webui): Vite build output
+- bb98946 feat: root bypass screen recording with liquid glass expandable settings, renice -16 CPU priority & anti-brick execute inspection, bump v2.2.37 (v227)
 
 ### SHA-256
 ```
-5a4f64b004fc8d474178b11cf04512b4f087276bd98b127dc258a444b77c16a3  Zless V2.2.36.zip
+e4e8858aecea826c8979e6548bf8dd2a53ff999a0dbb16261e5ce5355b7c00c5  Zless V2.2.37.zip
 ```
