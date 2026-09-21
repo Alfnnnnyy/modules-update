@@ -1,10 +1,10 @@
-## Zless v2.2.29 (v219)
+## Zless v2.2.30 (v220)
 
 ### Changelog
-- 2ec3b8a build(webui): Vite build output
-- 4ff4010 feat: script delete button in execute dropdown with localized confirmation modal, bump v2.2.29 (v219)
+- a31e097 build(webui): Vite build output
+- 6229864 fix(webui): prevent version wrap in update modal header, bump v2.2.30 (v220)
 
 ### SHA-256
 ```
-17acefdea59c194342e1b04a265be16e9c9f50aebf7a481828fa00358cccefb2  Zless V2.2.29.zip
+fc5827e967393220a2cec63706e02825df9fe89b4a03d9bd5d393bf887e34c73  Zless V2.2.30.zip
 ```
