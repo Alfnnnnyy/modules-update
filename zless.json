@@ -1,6 +1,6 @@
 {
   "version": "v2.2.30",
   "versionCode": 220,
-  "zipUrl": "https://github.com/Alfnnnnyy/modules-update/releases/download/zless/Zless.V2.2.30.zip",
+  "zipUrl": "https://cdn.jsdelivr.net/gh/Alfnnnnyy/modules-update@main/Zless.zip",
   "changelog": "https://raw.githubusercontent.com/Alfnnnnyy/modules-update/main/zless_changelog.md"
 }
