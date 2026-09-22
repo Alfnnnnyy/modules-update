@@ -1,12 +1,12 @@
-## Zless v2.2.38 (v228)
+## Zless v2.2.39 (v229)
 
 ### Changelog
+- 283541a build(webui): Vite build output
+- 7a6b3f9 feat: add Rust Mobile (com.tencent.rmos) surgical cleaner & cross-profile data mover support, bump v2.2.39 (v229)
 - 0d85297 build(webui): Vite build output
 - a5b64b3 feat: fix video playback permissions & oem screenshot restore, add 360p-4k resolutions, orientation & multi-format support, bump v2.2.38 (v228)
-- f78a573 build(webui): Vite build output
-- bb98946 feat: root bypass screen recording with liquid glass expandable settings, renice -16 CPU priority & anti-brick execute inspection, bump v2.2.37 (v227)
 
 ### SHA-256
 ```
-27c418a4296b590ed3c737b9861ce2de9eb9b858f1eaaf9d3c0fa69d8e1a345e  Zless V2.2.38.zip
+218ecb87019c3f5ded1d11746b5428c3d2ca1562d2fa0ab04672e44de9cc09b2  Zless V2.2.39.zip
 ```
