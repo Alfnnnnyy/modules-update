@@ -1,11 +1,7 @@
-## Perf v2.5.9 (v259)
+## Perf v2.6.0 (v260)
 
 ### Catatan Perubahan (Changelog):
-- **Deteksi Game Instan (Prioritas 1):** Mengganti pembacaan dumpsys ke `dumpsys activity top` sehingga game aktif di layar langsung terdeteksi dalam 30ms tanpa tertutup launcher Home.
-- **Kunci 120 FPS / Anti-Drop 90Hz:** Mengunci `is_smart_fps = 0` pada HyperOS untuk mematikan Dynamic Smart FPS yang sering menurunkan refresh rate ke 90Hz saat suhu hangat.
-- **Reset 70 Cooling Devices:** Menambahkan reset seluruh cooling device sistem (`display-fps`, `gpu`, `cpu`) ke State 0 saat game berjalan.
-- **Pembaruan KernelSU Otomatis:** Integrasi `updateJson` langsung ke mirror publik `modules-update`.
-
-### Varian Modul:
-1. `Perf-v2.5.9-NonReplace.zip` (Rekomendasi): 100% tanpa modifikasi partisi system/odm.
-2. `Perf-v2.5.9-ReplaceThermal.zip` (Ekstrem): Mengganti config thermal bawaan Xiaomi HyperOS.
+- **Bypass Pembatasan Cas Qualcomm/Xiaomi (Anti-Tekor Game):** Membuka batasan suhu dan restriksi arus pengisian daya (`qcom-battery/remove_temp_limit`, `restrict_cur`, `fastcharge_mode`, `constant_charge_current_max` 9A) saat Game Mode aktif, mengeliminasi masalah baterai turun/tekor saat main game sambil cas.
+- **Eliminasi Daemon Stutter / FPS Drop:** Mengubah siklus daemon menjadi *state-transition only* (`applied_mode`). Tidak ada lagi spam fork shell, chmod, dan IPC SurfaceFlinger setiap detik di tengah-tengah gameplay.
+- **Auto-Switch Mode Instan:** Memangkas leave grace timer dari 45 detik menjadi 4 detik dan memperbaiki sinkronisasi status. Begitu keluar dari game, sistem langsung otomatis kembali ke mode Balance atau Powersafe tanpa tertahan di Game Mode.
+- **Governor Scaling Cerdas (Anti-Overheat):** Mengatur frekuensi dasar CPU game ke 65% clock max dan membiarkan scheduler menggenjot ke 100% secara dinamis, mencegah panas ekstrem (15W-20W) dan *hardware duty-cycle throttling* silikon.
