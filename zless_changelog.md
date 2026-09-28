@@ -1,14 +1,12 @@
-## Zless v2.2.51 (v241)
+## Zless v2.2.52 (v242)
 
 ### Changelog
+- d6b0744 build(webui): Vite build output
+- cda4170 feat: merge spoofer boxes, restore eye icon, remove ram turbo, bump v2.2.52
 - dde54a1 build(webui): Vite build output
 - e6e0aa6 fix(ui): remove stale slot call, restore switch styles, optimize mover chmod, bump v2.2.51
-- 2b2c9ce build(webui): Vite build output
-- 466c28d feat(work): remove account switcher, implement dedicated saved controls manager
-- 723969c fix(frontend): layout input status kw and bump v2.2.50
-- da3e66e ci: enforce single latest release asset per tag in modules-update
 
 ### SHA-256
 ```
-e10bf1c455871163af732d0854b72e5faa265343b152692a70211e210c7bc791  Zless V2.2.51.zip
+e9f1031b6842a2313da816fa9168d8034721f0f32b8f1a3727e52a9e736c961b  Zless V2.2.52.zip
 ```
