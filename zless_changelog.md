@@ -1,12 +1,10 @@
-## Zless v2.2.53 (v243)
+## Zless v2.2.54 (v244)
 
 ### Changelog
-- ed8a74a build(webui): Vite build output
-- 3e3c73b feat(spoofer): add Lenovo Legion Y700 Gen 1 to Gen 5 CN and Global presets, bump v2.2.53
-- d6b0744 build(webui): Vite build output
-- cda4170 feat: merge spoofer boxes, restore eye icon, remove ram turbo, bump v2.2.52
+- ba231d3 build(webui): Vite build output
+- b24784a feat: clean marketnames, vendor props spoofing, modal center & vertical rule toggles, bump v2.2.54
 
 ### SHA-256
 ```
-958c5cff9d9779f2aea8251ab9731eda9cee6197b54e4028f4db117aa457df5e  Zless V2.2.53.zip
+06a37b2ded55ef4ffb13d1cacc555b7a87af0a46f49437f5885591e3ff2accbd  Zless V2.2.54.zip
 ```
