@@ -1,10 +1,10 @@
-## Zless v2.2.54 (v244)
+## Zless v2.2.55 (v245)
 
 ### Changelog
-- ba231d3 build(webui): Vite build output
-- b24784a feat: clean marketnames, vendor props spoofing, modal center & vertical rule toggles, bump v2.2.54
+- 7453a5a build(webui): Vite build output
+- 60f316c feat: deep script anti-brick scanner, bulk trigger validator & symmetric spoofer layout, bump v2.2.55
 
 ### SHA-256
 ```
-06a37b2ded55ef4ffb13d1cacc555b7a87af0a46f49437f5885591e3ff2accbd  Zless V2.2.54.zip
+1b0b8876daa69b239e7f448c1143cb0f3012ec86a08c6ee8f8088d29020e8d8e  Zless V2.2.55.zip
 ```
