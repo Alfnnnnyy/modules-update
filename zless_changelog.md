@@ -1,10 +1,10 @@
-## Zless v2.2.59 (v249)
+## Zless v2.2.60 (v250)
 
 ### Changelog
-- eb0d80b build(webui): Vite build output
-- 3eafb27 feat(execute): add random trigger response toggle, fix spoofer patch label UI, bump v2.2.59
+- 418c3fd build(webui): Vite build output
+- 37dc5e7 feat(installer): developer-style clean installer, fix devices database, bump v2.2.60
 
 ### SHA-256
 ```
-307ff01aae3f77c5a6405c3b2c3321ddefca634edf86ab76c2c2996055cfe183  Zless V2.2.59.zip
+d0c24546b38ff6c7123abdad5e01e4c9ab76b45390809878097c5838e25cc187  Zless V2.2.60.zip
 ```
