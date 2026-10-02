@@ -1,12 +1,10 @@
-## Zless v2.2.57 (v247)
+## Zless v2.2.58 (v248)
 
 ### Changelog
-- a7806e2 build(webui): Vite build output
-- f8415d5 feat(spoofer): add TEE security patch parity engine, 3-language UI, bump v2.2.57
-- ef0ccee build(webui): Vite build output
-- 62e7554 feat(ui): full-width trigger inputs, swipeable param strip, clean toggle card, bump v2.2.56
+- 82054ef build(webui): Vite build output
+- 06ae889 fix(execute): stream terminal log from subfolder scripts to WebUI, bump v2.2.58
 
 ### SHA-256
 ```
-8da1173e5190ede4061d1e0aeda2c3c954ffd53771f039233424eada40cd690c  Zless V2.2.57.zip
+13ec787a852ebbf3ce335d8ba527e349716a1c1d708637c030c62500f12d1f29  Zless V2.2.58.zip
 ```
