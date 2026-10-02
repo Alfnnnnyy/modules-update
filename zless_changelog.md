@@ -1,10 +1,10 @@
-## Zless v2.2.60 (v250)
+## Zless v2.2.61 (v251)
 
 ### Changelog
-- 418c3fd build(webui): Vite build output
-- 37dc5e7 feat(installer): developer-style clean installer, fix devices database, bump v2.2.60
+- a44783f build(webui): Vite build output
+- 74afdda fix(stealth): cloak root devpts nodes via SUSFS kernel VFS, bump v2.2.61
 
 ### SHA-256
 ```
-d0c24546b38ff6c7123abdad5e01e4c9ab76b45390809878097c5838e25cc187  Zless V2.2.60.zip
+d77c6452e7ea4c3a58dea605358656fc7ebd1e3ff2e03d6193ebc8ee9ff25fbd  Zless V2.2.61.zip
 ```
