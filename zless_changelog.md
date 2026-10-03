@@ -1,12 +1,12 @@
-## Zless v2.2.62 (v252)
+## Zless v2.2.63 (v253)
 
 ### Changelog
+- 72dc06f build(webui): Vite build output
+- 036e983 fix(stealth): support ksu_susfs binary, tmpfs cpuinfo mount, susfs open_redirect, bump v2.2.63
 - 726aec2 build(webui): Vite build output
 - 9e4f00b feat(cleaner): regional accordion dropdown, expanded mover games, clean installer UI, bump v2.2.62
-- a44783f build(webui): Vite build output
-- 74afdda fix(stealth): cloak root devpts nodes via SUSFS kernel VFS, bump v2.2.61
 
 ### SHA-256
 ```
-65dc3f85d4b09fa4f19190a4849a50adb34fb7d2be33164c9a669bad665734c5  Zless V2.2.62.zip
+5162bfe42903bf7bf7d4494a10b97429e1e47233d8911bb2c02c2819ade80141  Zless V2.2.63.zip
 ```
