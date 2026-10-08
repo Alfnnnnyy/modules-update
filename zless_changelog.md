@@ -1,10 +1,10 @@
-## Zless v2.2.69 (v259)
+## Zless v2.2.70 (v260)
 
 ### Changelog
+- 522af08 fix(spoofer): purge pif.json from attestation detection and fix BakaSU SuSFS detection, bump v2.2.70
 - 5d5e693 feat(spoofer): detect hardware attestation patch level directly for TEE parity sync, bump v2.2.69
-- 0136bf7 fix(spoofer): sync DRM ID status indicator with master toggle and stop daemon on OFF, bump v2.2.68
 
 ### SHA-256
 ```
-3ee5b555de88916d7ba88aa1866740d68cb2edba42a139e49ea768b2e4740b71  Zless V2.2.69.zip
+64006e4eac30cb6f000d962a6f006a6c83cdb1af2b725e739435e94125819af4  Zless V2.2.70.zip
 ```
