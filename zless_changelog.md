@@ -1,10 +1,9 @@
-## Zless v2.2.67 (v257)
+## Zless v2.2.68 (v258)
 
 ### Changelog
-- 0c0e1bd feat(spoofer): implement Widevine DRM ID spoofing with SUSFS hiding, bump v2.2.67
-- a0c122d fix(cleaner): harden native C cleaner with multi-region support and 100% invariant preservation, bump v2.2.66
+- 0136bf7 fix(spoofer): sync DRM ID status indicator with master toggle and stop daemon on OFF, bump v2.2.68
 
 ### SHA-256
 ```
-be2f5649752e939939716ba15ec60559378f0fcf1509f5847f633d87f1260cce  Zless V2.2.67.zip
+a8b322c96ecf4284fbc1b70a81ad2e48c913ba3d7eb8ee7ec36a4515082c8b9d  Zless V2.2.68.zip
 ```
