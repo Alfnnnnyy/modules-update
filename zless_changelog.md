@@ -1,10 +1,11 @@
-## Zless v2.2.70 (v260)
+## Zless v2.2.71 (v262)
 
 ### Changelog
-- 522af08 fix(spoofer): purge pif.json from attestation detection and fix BakaSU SuSFS detection, bump v2.2.70
-- 5d5e693 feat(spoofer): detect hardware attestation patch level directly for TEE parity sync, bump v2.2.69
+- ff58622 chore(release): bump versionCode to 262 to trigger release
+- 1975fbb build(wpz): add maven mirror to prevent transient 403 in gradle
+- b969277 fix(spoofer): auto-sync TrickyStore security_patch.txt and bind TEE status to active patch, bump v2.2.71
 
 ### SHA-256
 ```
-64006e4eac30cb6f000d962a6f006a6c83cdb1af2b725e739435e94125819af4  Zless V2.2.70.zip
+3a39fe07e360d46e63e9b59162174975d5ece5e91db4f81faae12d0b7593d0ee  Zless V2.2.71.zip
 ```
