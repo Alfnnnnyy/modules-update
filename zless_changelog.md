@@ -1,11 +1,10 @@
-## Zless v2.2.72 (v263)
+## Zless v2.2.73 (v264)
 
 ### Changelog
+- 8a665d2 feat: auto-install module updates in background, anchor hardware device ID, and add record video-only notice, bump v2.2.73
 - 713b1a1 refactor(work-profile): purge dead-weight saved controls and remove no-reboot clean option, bump v2.2.72
-- ff58622 chore(release): bump versionCode to 262 to trigger release
-- 1975fbb build(wpz): add maven mirror to prevent transient 403 in gradle
 
 ### SHA-256
 ```
-ffd9f067f5a9a9143a20d415d592878e4984f10b602c8b4b845c7d4ce2b3780c  Zless V2.2.72.zip
+6b6ab0a736c921ce0bedd45e5eece38d9087a1f5c3cb485e9ea1ee214731a2f5  Zless V2.2.73.zip
 ```
