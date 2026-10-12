@@ -1,12 +1,10 @@
-## Zless v2.2.80 (v271)
+## Zless v2.2.81 (v272)
 
 ### Changelog
-- 6fedb28 build(webui): Vite build output
-- 5c8e715 fix: RAM token cache, universal loader file scanner, and smooth tab blur transitions (v2.2.80)
-- 0aa0e68 build(webui): Vite build output
-- ea89aa7 fix: allow GET method for QS actions and unblock license check for tile (v2.2.79)
+- 4bf108f build(webui): Vite build output
+- 2a25be5 feat: true POSIX/ELF executable detector and cache filter for run directory (v2.2.81)
 
 ### SHA-256
 ```
-869aca5882e945b3d8200b918c362c12c1b68406bf3289e4a1fa40a2f01c713d  Zless V2.2.80.zip
+89c951738d90b865a12e509f9b04888e6f991ea34bcb63f99b3be7a81c6d7819  Zless V2.2.81.zip
 ```
