@@ -1,12 +1,12 @@
-## Zless v2.2.79 (v270)
+## Zless v2.2.80 (v271)
 
 ### Changelog
+- 6fedb28 build(webui): Vite build output
+- 5c8e715 fix: RAM token cache, universal loader file scanner, and smooth tab blur transitions (v2.2.80)
 - 0aa0e68 build(webui): Vite build output
 - ea89aa7 fix: allow GET method for QS actions and unblock license check for tile (v2.2.79)
-- 9351107 build(webui): Vite build output
-- b422974 fix: enable cleartext HTTP traffic and make QS tile always clickable with one-tap toggle (v2.2.78)
 
 ### SHA-256
 ```
-2fea45874504daa9a1fb3b3b3977df14d942f65c3d2507fdbff2b98553de1bb1  Zless V2.2.79.zip
+869aca5882e945b3d8200b918c362c12c1b68406bf3289e4a1fa40a2f01c713d  Zless V2.2.80.zip
 ```
