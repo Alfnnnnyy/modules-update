@@ -1,12 +1,12 @@
-## Zless v2.2.86-beta (v277)
+## Zless v2.2.85 (v276)
 
 ### Changelog
-- 6a85d79 build(webui): Vite build output
-- 60f0ce0 feat: BT MAC address spoofing and SUSFS hardware serial open-redirect [beta] (v2.2.86-beta)
 - ea9d0cb build(webui): Vite build output
 - 975680d fix: remove sys.oem_unlock_allowed on Android 16+ to prevent Duck Detector danger flag (v2.2.85)
+- 22ff9d2 build(webui): Vite build output
+- 4ec9326 fix: set USB configuration to mtp instead of none in ADB stealth and cleaner (v2.2.84)
 
 ### SHA-256
 ```
-d6cdbf729bc07beb351a98246602da56b409261fac94f1370ddd7737f0449528  Zless V2.2.86-beta.zip
+6b4f71c0b7d08693f9879e60ba6cb24c1f1bdc4da59278febe7ff4d32727f049  Zless V2.2.85.zip
 ```
