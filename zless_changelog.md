@@ -1,12 +1,12 @@
-## Zless v2.3.3 (v292)
+## Zless v2.3.4 (v294)
 
 ### Changelog
-- 5b06c19 build(webui): Vite build output
-- af15963 fix(perf): eliminate 73% CPU busy-loop by filtering touchscreen and gating screenshot listener (v2.3.3)
-- 19e080f build(webui): Vite build output
-- d408b3d feat(ui): iOS fluid liquid glass morphing navbar, snappy tab transitions, and instant installer cleanup (v2.3.2)
+- 7724827 release: v2.3.4 (v294) - Fix screenshot bypass input listener with ioctl key detection
+- 7417dbb fix(screenshot): cast ioctl request parameter for Android Bionic compatibility (v2.3.4)
+- 64c3a9a build(webui): Vite build output
+- baed21b fix(screenshot): ioctl EVIOCGBIT hardware key filtering and instant 400ms hold trigger (v2.3.4)
 
 ### SHA-256
 ```
-93b82f722ee8b447f94768b4574fbb0975de80d7312bab0b3d65b639717e1ae4  Zless V2.3.3.zip
+e186eda0b7f1527de89b8abb723d87f2dbc29a055f9ba9f46a453d7eeec4c1ac  Zless V2.3.4.zip
 ```
