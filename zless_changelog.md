@@ -1,12 +1,12 @@
-## Zless v2.3.4 (v294)
+## Zless v2.3.5 (v295)
 
 ### Changelog
+- 574a665 build(webui): Vite build output
+- ed20b68 feat: per-profile and per-package auto-run in Execute and remove global switch in Status (v2.3.5)
 - 7724827 release: v2.3.4 (v294) - Fix screenshot bypass input listener with ioctl key detection
 - 7417dbb fix(screenshot): cast ioctl request parameter for Android Bionic compatibility (v2.3.4)
-- 64c3a9a build(webui): Vite build output
-- baed21b fix(screenshot): ioctl EVIOCGBIT hardware key filtering and instant 400ms hold trigger (v2.3.4)
 
 ### SHA-256
 ```
-e186eda0b7f1527de89b8abb723d87f2dbc29a055f9ba9f46a453d7eeec4c1ac  Zless V2.3.4.zip
+5646e1c04587309f916654ebd9096f251bb43a0f226b122e66128089f965ad13  Zless V2.3.5.zip
 ```
