@@ -1,12 +1,10 @@
-## Zless v2.3.5 (v295)
+## Zless v2.3.6 (v296)
 
 ### Changelog
-- 574a665 build(webui): Vite build output
-- ed20b68 feat: per-profile and per-package auto-run in Execute and remove global switch in Status (v2.3.5)
-- 7724827 release: v2.3.4 (v294) - Fix screenshot bypass input listener with ioctl key detection
-- 7417dbb fix(screenshot): cast ioctl request parameter for Android Bionic compatibility (v2.3.4)
+- 59692d4 build(webui): Vite build output
+- fde63c6 release: v2.3.6 (v296) - Fix QS Zless Execute tile service with force update and unstop
 
 ### SHA-256
 ```
-5646e1c04587309f916654ebd9096f251bb43a0f226b122e66128089f965ad13  Zless V2.3.5.zip
+1387ef42a2877e7b56a4c7f8dbd6375a51bc52e94341189b945faa3d2b849d0c  Zless V2.3.6.zip
 ```
