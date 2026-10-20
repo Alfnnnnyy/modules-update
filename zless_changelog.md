@@ -1,11 +1,11 @@
-## Zless v2.3.7 (v297)
+## Zless v2.3.8 (v298)
 
 ### Changelog
+- db98651 build(webui): Vite build output
+- af6c9a5 fix(screenshot): resolve Xiaomi PMIC hardware button detection and dual storage capture (v2.3.8)
 - e456926 release: v2.3.7 (v297) - Auto Run 1X per boot and Quick Settings Zless 1X Reset tile
-- 59692d4 build(webui): Vite build output
-- fde63c6 release: v2.3.6 (v296) - Fix QS Zless Execute tile service with force update and unstop
 
 ### SHA-256
 ```
-7c5dd1ca2e1b50f0161c816b90bf6b8e8beb3c85bb2476921aa264688f833d92  Zless V2.3.7.zip
+5bd8398cdec327c4d9c448306ea6dd6d5d06992086d8c3a4fbc1dc30b262cc2a  Zless V2.3.8.zip
 ```
