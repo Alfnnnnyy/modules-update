@@ -1,11 +1,10 @@
-## Zless v2.3.9 (v299)
+## Zless v2.4.0 (v300)
 
 ### Changelog
-- dd1c282 release: v2.3.9 (v299) - Multi-Select Game Cleaner with atomic post-clean system identity reset
-- db98651 build(webui): Vite build output
-- af6c9a5 fix(screenshot): resolve Xiaomi PMIC hardware button detection and dual storage capture (v2.3.8)
+- e2d9cd1 build(webui): Vite build output
+- 5797913 release: v2.4.0 (v300) - Quick Settings Tile for Bypass Screenshot toggle and robust hardware button listener
 
 ### SHA-256
 ```
-d90e9209ecae2b2c0c6fd15ee41966263cd19b520abae77c0633689c0d6580bd  Zless V2.3.9.zip
+1fdea2d6f00a40d9515fa74fb343dcc5bcdd2df9ef81478cad205860e8c2aefc  Zless V2.4.0.zip
 ```
