@@ -1,10 +1,9 @@
-## Zless v2.4.2 (v302)
+## Zless v2.4.3 (v303)
 
 ### Changelog
-- 537e26d feat(spoofer): add Just A Spoofer (Kirin 9030 Pro dual CPU/resetprop-rs spoof, cross-profile xzy.cfg matrix & default risk purge) - v2.4.2 (302)
-- b66c609 docs(agent): update invariants for screenshot ioctl, liquid navbar, and honeypot purge [skip ci]
+- 65870e7 feat(spoofer): rename to FE Fixer(Experimental), add plain resetprop & resetprop+cpu modes, fix app picker check-before-done & cpuinfo persistence - v2.4.3 (303)
 
 ### SHA-256
 ```
-76add1cdd2c1d231dda1933080e01318d9ad9988b7de8ba09ff26b5030edde5e  Zless V2.4.2.zip
+44e66a864cd37d373b7d617def1ef9bbe1037bc04abd04141627b75dfb0f5146  Zless V2.4.3.zip
 ```
