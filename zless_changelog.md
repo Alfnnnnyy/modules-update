@@ -1,10 +1,9 @@
-## Zless v2.4.8 (v308)
+## Zless v2.4.9 (v309)
 
 ### Changelog
-- ca5b31c feat(cleaner): rollback to stable v2.4.1 base with DFM risk files auto-purge on game stop - v2.4.8 (308)
-- 0a51732 fix(cpu): ensure standard CPU spoof only mounts while CPU_LIST apps are running & auto-restore when closed - v2.4.7 (307)
+- 8ef235f fix(perf): eliminate CPU polling overhead, optimize screen check & isolate ACE core safely - v2.4.9 (309)
 
 ### SHA-256
 ```
-7948177d6306a0f0db5ddbb5774074e3ee80c007e3fb5120bb19eed34b6267f9  Zless V2.4.8.zip
+60bc67efbf8239a6271c4063ec6a9c6291a1ca5a23ecae6a6cfdd44f7bf5265f  Zless V2.4.9.zip
 ```
