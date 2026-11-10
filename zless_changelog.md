@@ -1,11 +1,9 @@
-## Zless v2.5.0 (v310)
+## Zless v2.5.1 (v311)
 
 ### Changelog
-- d923639 build(webui): Vite build output
-- 4324e27 fix(license): add dual-key verification for active & legacy seeds and strip token whitespaces - v2.5.0 (310)
-- 8ef235f fix(perf): eliminate CPU polling overhead, optimize screen check & isolate ACE core safely - v2.4.9 (309)
+- c564342 feat(cleaner): add Layer 1 ACE audit mark auto-purge on game stop & expand user_de in zclean - v2.5.1 (311)
 
 ### SHA-256
 ```
-24fdffda049389aea1bc567aaba04e790383d252c9d1640e510059eca8362e39  Zless V2.5.0.zip
+a3ecc3ac77219f3a3370d15ab4df9a0e008f671cdd2f9fd4f502bfe8c9f1a100  Zless V2.5.1.zip
 ```
