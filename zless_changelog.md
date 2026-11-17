@@ -1,11 +1,10 @@
-## Zless v2.5.6 (v316)
+## Zless v2.5.7 (v317)
 
 ### Changelog
+- 54c3211 fix(cpu): bind CPU spoof strictly to running CPU_LIST games & drop global open_redirect - v2.5.7 (317)
 - 5509ad4 fix(pty): remove /dev/pts from SUSFS cloaking to restore Termux & terminal apps - v2.5.6 (316)
-- f5fb6a1 build(webui): Vite build output
-- 6351e1e fix(webui): prevent reactive loop tab freeze & add smart anti-flip orientation - v2.5.5 (315)
 
 ### SHA-256
 ```
-13793b94df2774fb02f21e1b37500848e28186ec66e4e7ee3479ef2045fe7ca3  Zless V2.5.6.zip
+8054b1efef8c8c37bd56df63fa2f84ae7e9490b9f65231d1aac629d0a1a94690  Zless V2.5.7.zip
 ```
